@@ -9,14 +9,11 @@
 <br />
 <br />
 
-I'm a recent graduate of CodeClan where I attended an intensive 16-week Software Development bootcamp.  With a background in Computer Science and hospitality I've gained transferable soft skills which I hope to apply to a new exciting career in Tech. 
+I'm a recent graduate of CodeClan where I attended an intensive 16-week Software Development bootcamp.  With a background in Computer Science and hospitality I've gained transferable soft skills which I hope to apply to a new exciting career in Tech.  I love solving difficult problems and learning new tech and tools.
 <br />
 
 I'm currently based in **[Edinburgh, Scotland.](https://www.google.com/maps/place/Edinburgh/@55.9469218,-3.1957065,12.25z/data=!4m5!3m4!1s0x4887b800a5982623:0x64f2147b7ce71727!8m2!3d55.953252!4d-3.188267)**
 
-<br />
-I love learning to solve difficult problems using new techs and tools.
-<br />
 <br />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stuart-McCafferty&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Stuart McCafferty Github Stats">
@@ -24,11 +21,7 @@ I love learning to solve difficult problems using new techs and tools.
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stuart-McCafferty&layout=compact&theme=dark&bg_color=0A0A0A" alt="Stuart McCafferty Top Languages"/>
 <br />
-<br />
-<br />
-
 </div>
-
 <div align="center">
 
 ## Tech Stack
