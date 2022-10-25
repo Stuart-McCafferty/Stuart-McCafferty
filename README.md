@@ -9,7 +9,7 @@
 <br />
 <br />
 
-I'm a recent graduate of CodeClan where I attended an intensive 16-week Software Development bootcamp.  With a background in Computer Science and hospitality I've gained transferable soft skills which I hope to apply to a new exciting career in Tech.  I love solving difficult problems and learning new tech and tools.
+I'm a recent graduate of CodeClan where I attended an intensive 16-week Software Development boot camp. With a background in Computer Science and hospitality, I've gained transferable soft skills which I hope to apply to a new exciting career in Tech. I love solving complex problems and learning new tech and tools.
 <br />
 
 I'm currently based in **[Edinburgh, Scotland.](https://www.google.com/maps/place/Edinburgh/@55.9469218,-3.1957065,12.25z/data=!4m5!3m4!1s0x4887b800a5982623:0x64f2147b7ce71727!8m2!3d55.953252!4d-3.188267)**
