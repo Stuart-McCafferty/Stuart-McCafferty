@@ -9,7 +9,7 @@
 <br />
 <br />
 
-I'm a recent graduate of CodeClan where I attended an intensive 16-week Software Development boot camp. With a background in Computer Science and hospitality, I've gained transferable soft skills which I hope to apply to a new exciting career in Tech. I love solving complex problems and learning new tech and tools.
+I'm a recent graduate of CodeClan where I attended an intensive 16-week Software Development boot camp. With a background in Computer Science and hospitality, I've gained transferable soft skills which I'm looking forward to applying to a new exciting career in Tech. I love solving complex problems and learning new tech and tools.
 	
 My most recent project <a href="https://github.com/Stuart-McCafferty/MazeSolver">Maze Solver</a> was a solo project done over 2 weeks where I developed a webapp with React frontend and Java backend that solves pre-generated mazes with Depth-First Search(DFS) and displays the result to the user.  
 
