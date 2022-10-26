@@ -10,18 +10,15 @@
 <br />
 
 I'm a recent graduate of CodeClan where I attended an intensive 16-week Software Development boot camp. With a background in Computer Science and hospitality, I've gained transferable soft skills which I hope to apply to a new exciting career in Tech. I love solving complex problems and learning new tech and tools.
+	
+My most recent project <a href="https://github.com/Stuart-McCafferty/MazeSolver">Maze Solver</a> was a solo project done over 2 weeks where I developed a webapp with React frontend and Java backend that solves pre-generated mazes with Depth-First Search(DFS) and displays the result to the user.  
+
+
 <br />
 
 I'm currently based in **[Edinburgh, Scotland.](https://www.google.com/maps/place/Edinburgh/@55.9469218,-3.1957065,12.25z/data=!4m5!3m4!1s0x4887b800a5982623:0x64f2147b7ce71727!8m2!3d55.953252!4d-3.188267)**
 
-<h3>
 
-**Projects to look at**
-
-<h3/>
-<h4>
-<a href="https://github.com/Stuart-McCafferty/MazeSolver">Maze Solver</a>
-<h4/>
 <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stuart-McCafferty&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Stuart McCafferty Github Stats">
 <br />
