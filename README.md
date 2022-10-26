@@ -39,20 +39,20 @@ I'm currently based in **[Edinburgh, Scotland.](https://www.google.com/maps/plac
 </div>
 <br />
 <div align="center">
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL" />
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="mongoDB" title="mongoDB" />
 </div>
 <br />
 <div align="center">
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express" />
-	<img height="50" src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png" alt="Flask"/>
+	<img height="50" src="https://ih1.redbubble.net/image.2488655049.9084/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="Flask"/>
 </div>
 <br />
 <div align="center">
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="JUnit" title="JUnit" />
-	<img height="50" src="https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/113/000/resized/logo_landscape_(1).png?1643756332"/>
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/cypress.svg"/>
 	<img height="50" src="https://www.brightest.be/wp-content/uploads/2019/06/insomnia2-1.png"/>
 </div>
 </div>
